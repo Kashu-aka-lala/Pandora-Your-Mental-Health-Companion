@@ -2,7 +2,8 @@
 
 Pandora is a simple NLP-powered chatbot designed to support mental health conversations. Built with Python, Flask, and scikit-learn, it simulates a therapeutic assistant that listens to users and responds empathetically based on detected intent.
 
-![Preview](https://your-image-url-if-any.com)
+<img width="889" height="762" alt="image" src="https://github.com/user-attachments/assets/03a8477f-d805-4118-8caf-6ba56c624093" />
+
 
 ## 💡 Features
 
